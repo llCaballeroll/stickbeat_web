@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://llcaballeroll.github.io/stickbeat_web/sitemap.xml
